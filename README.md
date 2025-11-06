@@ -1,4 +1,4 @@
-# Nyquisit Architect - Imaging System Calculator
+# Nyquist Architect - Imaging System Calculator
 
 This repo packages the calculator with a JSON input (`input.json`), a runner (`run.py`) that writes `results.json`.
 
