@@ -41,7 +41,7 @@ A tiny optics + vision calculator to de‑risk camera design. It turns real came
 ## How to run
 
 ```bash
-python /home/keanay/operation_pinhole/neo_calc/run.py
+python ./run.py
 ```
 
 - Edit `input.json` to match your camera, lens, and scene.
