@@ -1,0 +1,22 @@
+{
+  "sensor_width_mm": 6.52,
+  "sensor_height_mm": 5.52,
+  "sensor_diagonal_mm": 8.5,
+  "sensor_pixel_size_width_um": 2.5,
+  "sensor_pixel_size_height_um": 2.5,
+  "sensor_framerate": 64.0,
+  "lens_diagonal_mm": 11.0,
+  "lens_focal_length_mm": 8.0,
+  "lens_fstop": 8.0,
+  "lens_resolution": 16.0,
+  "lens_relative_illumination": 70.0,
+  "lens_pixel_pitch_um": 2.0,
+  "lens_distortion_perc": 0.07,
+  "working_distance_mm": 200.0,
+  "object_initial_speed_mm_s": 1000.0,
+  "object_allowed_blur_pixels": 2.0,
+  "object_motion_axis": "W",
+  "target_fov_width": 150.0,
+  "target_fov_height": 150.0
+}
+
